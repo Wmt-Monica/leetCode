@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '...\src\Edition2\Edition2_9'" />
-    <option name="defaultScopeName" value="Directory '...\src\Edition2\Edition2_9'" />
-    <option name="SEARCH_SCOPE" value="Directory '...\src\Edition2\Edition2_9'" />
+    <option name="customScope" value="Directory '...\src\edition_1\edition_1_2'" />
+    <option name="defaultScopeName" value="Directory '...\src\edition_1\edition_1_2'" />
+    <option name="SEARCH_SCOPE" value="Directory '...\src\edition_1\edition_1_2'" />
   </component>
 </application>
