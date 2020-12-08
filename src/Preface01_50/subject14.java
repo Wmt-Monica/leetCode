@@ -22,49 +22,46 @@ public class subject14 {
                 return 0;
             }
             Arrays.sort(nums);  // 将nums数组从小到大排好序
-            for (int i = 0; i < nums.length; i ++){
-                System.out.print(nums[i]+ "\t");
-            }
-            System.out.println("\n");
-            int first = 0;
+
+            int first;
             int second;
-            int third = nums.length-1;
-            int minSum = nums[0]+nums[1]+nums[nums.length-1]-target;
-            for (second = first+1; second < third;){
-                while (second < third && nums[first]+nums[second]+nums[third] > target){
-                    System.out.println("--1--\t"+"num["+first+"] = "+nums[first]+" nums["+second+"] = "+
-                            nums[second]+" nums[third] = "+nums[third]);
-                    third --;
+            int third;
+            int result = Integer.MAX_VALUE;  // 为了防止用到result时是空值，先初始化赋值Integer的最大值
+            for (first = 0; first < nums.length; first ++){
+                // 保证在指针移动的过程遇到与前一个相同的值就结束本次循环
+                if (first != 0 && nums[first] == nums[first-1]){
+                    continue;
                 }
-                while (second < third && nums[first]+nums[second]+nums[third] < target){
-                    System.out.println("--2--\t"+"num["+first+"] = "+nums[first]+" nums["+second+"] = "+
-                            nums[second]+" nums["+third+"] = "+nums[third]);
-                    second ++;
+                second = first+1;
+                third = nums.length-1;
+                if (first == 0){
+                    result = nums[first]+nums[second]+nums[third];
                 }
-                if (second == third){
-                    if (nums[first]+nums[second]+nums[third] > target || third == nums.length-1){
-                        -- second;
-                        return nums[first]+nums[second]+nums[third];
-                    }else if (nums[first]+nums[second]+nums[third] < target){
-                        while (first < second && nums[first]+nums[second]+nums[third] < target){
-                            System.out.println("--3--\t"+"num["+first+"] = "+nums[first]+" nums["+second+"] = "+
-                                    nums[second]+" nums["+third+"] = "+nums[third]);
-                            ++ first;
-                        }
-                        if (first == second){
-                            -- first;
-                        }
-                        return nums[first]+nums[second]+nums[third];
+                while (second < third){
+                    int sum = nums[first]+nums[second]+nums[third];
+                    if (Math.abs(sum-target) < Math.abs(result-target)){
+                        result = sum;
                     }
-                }else {
-                    System.out.println("target = "+target+"\t --3--"+nums[first]+nums[second]+nums[third]);
-                    if (Math.abs(nums[first]+nums[second]+nums[third] - target) < minSum){
-                        minSum = nums[first]+nums[second]+nums[third];
+                    if (sum == target){  // 如果找到了数组中三个数相加等于target就直接返回
+                        return sum;
                     }
-                    break;
+                    if (sum > target){  // 如果三个数的总值大于目标数 target 就向前移动 third 指针的位置
+                        int otherThird = third-1;
+                        while (otherThird > second && nums[otherThird] == nums[third]){
+                            -- otherThird;
+                        }
+                        third = otherThird;
+                    }
+                    if (sum < target){  //如果三个数的总值小于目标数 target 就向后移动 second 指针位置
+                        int otherSecond = second+1;
+                        while (otherSecond < third && nums[otherSecond] == nums[second]){
+                            ++ otherSecond;
+                        }
+                        second = otherSecond;
+                    }
                 }
             }
-            return minSum;
+            return result;
         }
     }
 }
