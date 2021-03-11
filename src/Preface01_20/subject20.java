@@ -1,7 +1,5 @@
 package Preface01_20;
 
-import org.junit.Test;
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Stack;
@@ -18,7 +16,7 @@ import java.util.Stack;
 public class subject20 {
     public static void main(String[] args) {
         List<String> result;
-        result = new Solution().generateParenthesis(3);
+        result = new Solution2().generateParenthesis(3);
         System.out.println("==================");
         System.out.println(result);
         System.out.println(result.size());
@@ -64,6 +62,43 @@ public class subject20 {
                 }
             }
             return stack.isEmpty();
+        }
+    }
+
+    static class Solution2 {
+        public List<String> generateParenthesis(int n) {
+            // 创建结果 List<String> 对象
+            List<String> result = new ArrayList<>();
+            method(result, new StringBuffer(), 0, 0, n);
+            return result;
+        }
+
+        /**
+         * 使用回溯算法进行有效括号的拼凑
+         * @param result 存放所有有效括号字符串的结果集
+         * @param s 用于拼凑有效括号的StringBuffer对象
+         * @param open 记录左括号的个数
+         * @param close 记录右括号的个数
+         * @param n 所要拼凑的括号对数
+         */
+        public void method(List<String> result, StringBuffer s, int open, int close, int n) {
+            if (s.length() == n*2) {
+                result.add(s.toString());
+                return;
+            }else {
+                // 进行括号的填充的时候，先要对左括号进行回溯
+                if (open < n) {
+                    s.append('(');
+                    method(result, s, open+1, close, n);
+                    s.deleteCharAt(s.length()-1);
+                }
+                // 如果右括号的个数小于左括号就进行右括号的字符串连接
+                if (close < open) {
+                    s.append(')');
+                    method(result, s, open, close+1, n);
+                    s.deleteCharAt(s.length()-1);
+                }
+            }
         }
     }
 }
