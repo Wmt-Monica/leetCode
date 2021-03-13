@@ -21,11 +21,18 @@ public class Subject21 {
            node = node.next;
        }
 
-        ListNode result = new Solution().swapPairs(head);
+       ListNode result = new Solution().swapPairs2(head);
+
+       // 循环遍历交换后的链表
+        while (result != null) {
+            System.out.print(result.val+"\t");
+            result = result.next;
+        }
     }
 
     static class Solution {
-        public ListNode swapPairs(ListNode head) throws InterruptedException {
+        // 迭代遍历链表进行交换
+        public ListNode swapPairs(ListNode head) {
             // 如果该链表的头节点为 null,直接返回 null
             if (head == null) {
                 return null;
@@ -73,6 +80,23 @@ public class Subject21 {
                 }
 
                 return result;
+            }
+        }
+
+        // 使用递归的方法进行链表上的交换
+        public ListNode swapPairs2(ListNode head) {
+            // 如果遍历到的节点为 null 或者该节点时最后一个节点就直接返回该节点
+            if (head == null || head.next == null) {
+                return head;
+            }else {
+                // 创建链表的两个节点之间的新的头节点
+                ListNode newHead = head.next;
+                // 将原先的头节点的next指向心头节点newHead的next
+                head.next = swapPairs2(newHead.next);
+                // 将新头节点newHead的next指向旧头节点head
+                newHead.next = head;
+                // 返回心头节点
+                return newHead;
             }
         }
     }
