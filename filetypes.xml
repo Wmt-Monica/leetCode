@@ -4,6 +4,7 @@
       <mapping pattern="TankClientProperties" type="PLAIN_TEXT" />
       <mapping pattern="Demo1" type="PLAIN_TEXT" />
       <mapping ext="peoperties" type="PLAIN_TEXT" />
+      <mapping pattern="jdbc" type="Properties" />
     </extensionMap>
   </component>
 </application>
