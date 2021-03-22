@@ -5,6 +5,7 @@
       <mapping pattern="Demo1" type="PLAIN_TEXT" />
       <mapping ext="peoperties" type="PLAIN_TEXT" />
       <mapping pattern="jdbc" type="Properties" />
+      <mapping pattern="applicationContext" type="XML" />
     </extensionMap>
   </component>
 </application>
