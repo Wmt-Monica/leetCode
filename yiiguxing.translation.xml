@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="plugins" />
       <item value="required: 'javax.annotation.Resource[]'" />
       <item value="Incompatible types. Found: 'java.lang.String', required: 'javax.annotation.Resource[]'" />
       <item value="Field injection is not recommended" />
@@ -13,7 +14,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="4" />
+        <entry key="ENGLISH" value="5" />
       </map>
     </option>
   </component>
