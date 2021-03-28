@@ -1,11 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Field injection is not recommended" />
       <item value="Autowired members must be defined in valid Spring bean (@Component|@Service|...)" />
       <item value="plugins" />
       <item value="required: 'javax.annotation.Resource[]'" />
       <item value="Incompatible types. Found: 'java.lang.String', required: 'javax.annotation.Resource[]'" />
-      <item value="Field injection is not recommended" />
       <item value="准生产" />
       <item value="develop" />
       <item value="开发" />
