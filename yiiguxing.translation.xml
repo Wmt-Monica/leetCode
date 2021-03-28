@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure" />
       <item value="Field injection is not recommended" />
       <item value="Autowired members must be defined in valid Spring bean (@Component|@Service|...)" />
       <item value="plugins" />
@@ -15,7 +16,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="5" />
+        <entry key="ENGLISH" value="6" />
       </map>
     </option>
   </component>
