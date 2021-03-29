@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="java.net.ConnectException: Connection refused: no further information" />
       <item value="java.lang.IllegalStateException: Ambiguous handler methods mapped for '/t1/1/Monica': {public java.lang.String cn.dreamplume.mapper.RestfulController.t1(java.lang.Integer,java.lang.Integer), public java.lang.String cn.dreamplume.mapper.RestfulController.t2(java.lang.Integer,java.lang.String)}" />
       <item value="update By Primary Key" />
       <item value="update By Primary Key Selective" />
@@ -18,8 +19,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8" />
-        <entry key="ENGLISH" value="9" />
+        <entry key="CHINESE" value="9" />
+        <entry key="ENGLISH" value="10" />
       </map>
     </option>
   </component>
