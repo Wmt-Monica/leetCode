@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="update By Primary Key" />
+      <item value="update By Primary Key Selective" />
       <item value="com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure" />
       <item value="Field injection is not recommended" />
       <item value="Autowired members must be defined in valid Spring bean (@Component|@Service|...)" />
@@ -15,8 +17,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="6" />
+        <entry key="CHINESE" value="7" />
+        <entry key="ENGLISH" value="8" />
       </map>
     </option>
   </component>
