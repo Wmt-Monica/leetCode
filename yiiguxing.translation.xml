@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Failed to execute goal org.apache.maven.plugins:maven-deploy-plugin:2.7:deploy (default-deploy) on project maven_03: Failed to deploy artifacts: Could not transfer artifact cn.dreamplume:maven_03:jar:1.0-20210330.091300-1 from/to snapshots (http://localhost:8081/nexus/content/repositories/snapshots/): Failed to transfer file http://localhost:8081/nexus/content/repositories/snapshots/cn/dreamplume/maven_03/1.0-SNAPSHOT/maven_03-1.0-20210330.091300-1.jar with status code 401" />
       <item value="parent" />
       <item value="java.io.StreamCorruptedException: invalid stream header: ACED8085" />
       <item value="io.lettuce.core.RedisCommandExecutionException: ERR Client sent AUTH, but no password is set" />
@@ -24,7 +25,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="13" />
+        <entry key="ENGLISH" value="14" />
       </map>
     </option>
   </component>
