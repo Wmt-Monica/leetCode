@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="UserMapper" type="PLAIN_TEXT" />
+      <mapping pattern="logback-spring.xml" type="PLAIN_TEXT" />
       <mapping pattern="TankClientProperties" type="PLAIN_TEXT" />
       <mapping pattern="Demo1" type="PLAIN_TEXT" />
       <mapping ext="peoperties" type="PLAIN_TEXT" />
