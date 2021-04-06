@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="[ERROR] Some problems were encountered while processing the POMs:" />
       <item value="Exception in thread &quot;main&quot; org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'cn.dreamplume.service.impl.JavaServiceImpl' available at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBean(DefaultListableBeanFactory.java:351) at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBean(DefaultListableBeanFactory.java:342) at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1172) at cn.dreamplume.Application.main(Application.java:24)" />
       <item value="Failed to execute goal org.apache.tomcat.maven:tomcat7-maven-plugin:2.2:run (default-cli) on project dubbodemo_consumer: Could not start Tomcat" />
       <item value="'org.springframework.web.servlet.DispatcherServlet' is not assignable to 'javax.servlet.Servlet'" />
@@ -35,8 +36,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="22" />
-        <entry key="ENGLISH" value="24" />
+        <entry key="CHINESE" value="23" />
+        <entry key="ENGLISH" value="25" />
       </map>
     </option>
   </component>
