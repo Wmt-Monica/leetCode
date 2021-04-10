@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="符号" />
+      <item value="点" />
       <item value="除" />
       <item value="乘" />
       <item value="减" />
