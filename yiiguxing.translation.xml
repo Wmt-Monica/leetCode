@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="除" />
+      <item value="乘" />
+      <item value="减" />
       <item value="行" />
       <item value="按钮" />
       <item value="计算式" />
