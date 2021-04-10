@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="计算式" />
+      <item value="计算式子" />
+      <item value="显示屏" />
       <item value="计算器" />
       <item value="org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [cn.dreamplume.Application]; nested exception is org.springframework.context.annotation.ConflictingBeanDefinitionException: Annotation-specified bean name 'sayOk' for bean class [cn.dreamplume.dao.impl.SayProdOk] conflicts with existing, non-compatible bean definition of same name and class [cn.dreamplume.dao.impl.SayOk] at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:189) ~[spring-context-5.3.5.jar:5.3.5]" />
       <item value="prop" />
