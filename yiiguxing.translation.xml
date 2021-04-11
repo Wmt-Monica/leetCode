@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="计算属性" />
       <item value="字母" />
       <item value="事件修饰符" />
       <item value="生命周期" />
@@ -50,7 +51,6 @@
       <item value="required: 'javax.annotation.Resource[]'" />
       <item value="Incompatible types. Found: 'java.lang.String', required: 'javax.annotation.Resource[]'" />
       <item value="准生产" />
-      <item value="develop" />
     </histories>
     <option name="languageScores">
       <map>
