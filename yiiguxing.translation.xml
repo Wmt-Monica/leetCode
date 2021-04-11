@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="property" />
+      <item value="属性" />
+      <item value="组件" />
+      <item value="组件通信" />
       <item value="组件化" />
       <item value="计算属性" />
       <item value="字母" />
@@ -47,14 +51,10 @@
       <item value="update By Primary Key Selective" />
       <item value="com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure" />
       <item value="Field injection is not recommended" />
-      <item value="Autowired members must be defined in valid Spring bean (@Component|@Service|...)" />
-      <item value="plugins" />
-      <item value="required: 'javax.annotation.Resource[]'" />
-      <item value="Incompatible types. Found: 'java.lang.String', required: 'javax.annotation.Resource[]'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="29" />
+        <entry key="CHINESE" value="30" />
         <entry key="ENGLISH" value="30" />
         <entry key="CATALAN" value="1" />
       </map>
