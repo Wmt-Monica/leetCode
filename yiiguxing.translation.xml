@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Artifact contains illegal characters" />
       <item value="2021-04-13 09:41:27.500 ERROR 19704 --- [nio-8080-exec-1] org.thymeleaf.TemplateEngine             : [THYMELEAF][http-nio-8080-exec-1] Exception processing template &quot;th-v-each&quot;: An error happened during template parsing (template: &quot;class path resource [templates/th-v-each.html]&quot;)" />
       <item value="property" />
       <item value="属性" />
@@ -50,7 +51,6 @@
       <item value="java.lang.IllegalStateException: Ambiguous handler methods mapped for '/t1/1/Monica': {public java.lang.String cn.dreamplume.mapper.RestfulController.t1(java.lang.Integer,java.lang.Integer), public java.lang.String cn.dreamplume.mapper.RestfulController.t2(java.lang.Integer,java.lang.String)}" />
       <item value="update By Primary Key" />
       <item value="update By Primary Key Selective" />
-      <item value="com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure" />
     </histories>
     <option name="languageScores">
       <map>
