@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Suppress 'vue/valid-template-root' for current line " />
       <item value=" Duplicate column name 'stu_id'." />
       <item value="学生管理系统" />
       <item value="学生管理" />
@@ -50,7 +51,6 @@
       <item value="No such any registry to refer service in consumer 192.168.94.1 use dubbo version 2.6.0, Please add &lt;dubbo:registry address=&quot;...&quot; /&gt;" />
       <item value="defined in file [D:\github上传的文件\Wmtprogram2\SpringBoot\project_14\springboot-dubbo-consumer\target\classes\cn\dreamplume\web\StudentController.class]: Initialization of bean failed; nested exception is org.springframework.beans.factory.BeanCreationException:" />
       <item value="192.168.94.1 use dubbo version 2.6.0, Please add &lt;dubbo:registry address=&quot;...&quot; /&gt; to your spring config. If you want unregister, please set &lt;dubbo:service registry=&quot;N/A&quot; /&gt;" />
-      <item value="No such any registry to refer service in consumer" />
     </histories>
     <option name="languageScores">
       <map>
