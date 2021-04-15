@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="学生管理系统" />
+      <item value="学生管理" />
       <item value="Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'id' is not present]" />
       <item value=".web.bind.MissingServletRequestParameterException: Required Integer parameter 'id' is not present]" />
       <item value="ava.lang.IllegalStateException: Optional int parameter 'id' is present but cannot be translated into a null value due to being declared as a primitive type. Consider declaring it as object wrapper for the corresponding primitive type." />
@@ -49,13 +51,11 @@
       <item value="192.168.94.1 use dubbo version 2.6.0, Please add &lt;dubbo:registry address=&quot;...&quot; /&gt; to your spring config. If you want unregister, please set &lt;dubbo:service registry=&quot;N/A&quot; /&gt;" />
       <item value="No such any registry to refer service in consumer" />
       <item value="org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'studentController' defined in file [D:\github上传的文件\Wmtprogram2\SpringBoot\project_14\springboot-dubbo-consumer\target\classes\cn\dreamplume\web\StudentController.class]: Initialization of bean failed; nested exception is org.springframework.beans.factory.BeanCreationException: studentController; nested exception is java.lang.IllegalStateException: No such any registry to refer service in consumer 192.168.94.1 use dubbo version 2.6.0, Please add &lt;dubbo:registry address=&quot;...&quot; /&gt; to your spring config. If you want unregister, please set &lt;dubbo:service registry=&quot;N/A&quot; /&gt;" />
-      <item value="Dependency 'com.bjpowernode.springboot:020-spring-dubbo-interface:1.0.0' not found Inspection info: Inspects a Maven model for resolution problems" />
-      <item value="Failed to execute goal org.apache.maven.plugins:maven-deploy-plugin:2.7:deploy (default-deploy) on project maven_03: Failed to deploy artifacts: Could not transfer artifact cn.dreamplume:maven_03:jar:1.0-20210330.091300-1 from/to snapshots (http://localhost:8081/nexus/content/repositories/snapshots/): Failed to transfer file http://localhost:8081/nexus/content/repositories/snapshots/cn/dreamplume/maven_03/1.0-SNAPSHOT/maven_03-1.0-20210330.091300-1.jar with status code 401" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="30" />
-        <entry key="ENGLISH" value="30" />
+        <entry key="ENGLISH" value="31" />
         <entry key="CATALAN" value="1" />
       </map>
     </option>
