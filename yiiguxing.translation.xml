@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.IllegalStateException: Optional int parameter 'userId' is present but cannot be translated into a null value due to being declared as a primitive type. Consider declaring it as object wrapper for the corresponding primitive type.] with root cause" />
       <item value="[THYMELEAF][http-nio-8282-exec-10] Exception processing template &quot;user/login&quot;: Error resolving template [user/login], template might not exist or might not be accessible by any of the configured Template Resolvers" />
       <item value="org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'studentController': Unsatisfied dependency expressed through field 'studentService'; nested exception is org.springframework.beans.factory" />
       <item value="Suppress 'vue/valid-template-root' for current line " />
@@ -50,7 +51,6 @@
       <item value="'org.springframework.web.servlet.DispatcherServlet' is not assignable to 'javax.servlet.Servlet'" />
       <item value="rg.springframework.web.servlet.DispatcherServlet' is not assignable to 'javax.servlet.Servlet' Inspection info: This inspection lets you spot the following problems that might occur in descriptors that are used to deploy your Web Module to a server:" />
       <item value="dubbo:registry address=&quot;...&quot;" />
-      <item value="No such any registry to refer service in consumer 192.168.94.1 use dubbo version 2.6.0, Please add &lt;dubbo:registry address=&quot;...&quot; /&gt;" />
     </histories>
     <option name="languageScores">
       <map>
