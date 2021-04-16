@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="java.lang.IllegalArgumentException: Result Maps collection does not contain value for cn.dreamplume.entity.User" />
+      <item value="org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): cn.dreamplume.mapper.UserMapper.findAll" />
       <item value="[THYMELEAF][http-nio-8282-exec-2] Exception processing template &quot;user/login&quot;: Error resolving template [user/login], template might not exist or might not be accessible by any of the configured Template Resolvers" />
       <item value="org.thymeleaf.exceptions.TemplateInputException: Error resolving template [user/login], template might not exist or might not be accessible by any of the configured Template Resolvers" />
       <item value="Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.IllegalStateException: Optional int parameter 'userId' is present but cannot be translated into a null value due to being declared as a primitive type. Consider declaring it as object wrapper for the corresponding primitive type.] with root cause" />
@@ -49,8 +51,6 @@
       <item value="*************************** APPLICATION FAILED TO START *************************** Description: Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured. Reason: Failed to determine a suitable driver class Action: Consider the following: If you want an embedded database (H2, HSQL or Derby), please put it on the classpath. If you have database settings to be loaded from a particular profile you may need to activate it (no profiles are currently active)." />
       <item value="[ERROR] Some problems were encountered while processing the POMs:" />
       <item value="Exception in thread &quot;main&quot; org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'cn.dreamplume.service.impl.JavaServiceImpl' available at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBean(DefaultListableBeanFactory.java:351) at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBean(DefaultListableBeanFactory.java:342) at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1172) at cn.dreamplume.Application.main(Application.java:24)" />
-      <item value="Failed to execute goal org.apache.tomcat.maven:tomcat7-maven-plugin:2.2:run (default-cli) on project dubbodemo_consumer: Could not start Tomcat" />
-      <item value="'org.springframework.web.servlet.DispatcherServlet' is not assignable to 'javax.servlet.Servlet'" />
     </histories>
     <option name="languageScores">
       <map>
