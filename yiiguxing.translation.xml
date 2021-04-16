@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="验证码" />
+      <item value="生成验证码" />
       <item value="java.lang.IllegalArgumentException: Result Maps collection does not contain value for cn.dreamplume.entity.User" />
       <item value="org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): cn.dreamplume.mapper.UserMapper.findAll" />
       <item value="[THYMELEAF][http-nio-8282-exec-2] Exception processing template &quot;user/login&quot;: Error resolving template [user/login], template might not exist or might not be accessible by any of the configured Template Resolvers" />
@@ -49,13 +51,11 @@
       <item value="prop" />
       <item value="切换prod环境，建立SayProdOk，加@Profile 6、SayOkCondition，加@ConditionalOnMissingBean" />
       <item value="*************************** APPLICATION FAILED TO START *************************** Description: Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured. Reason: Failed to determine a suitable driver class Action: Consider the following: If you want an embedded database (H2, HSQL or Derby), please put it on the classpath. If you have database settings to be loaded from a particular profile you may need to activate it (no profiles are currently active)." />
-      <item value="[ERROR] Some problems were encountered while processing the POMs:" />
-      <item value="Exception in thread &quot;main&quot; org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'cn.dreamplume.service.impl.JavaServiceImpl' available at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBean(DefaultListableBeanFactory.java:351) at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBean(DefaultListableBeanFactory.java:342) at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1172) at cn.dreamplume.Application.main(Application.java:24)" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="31" />
-        <entry key="ENGLISH" value="31" />
+        <entry key="ENGLISH" value="32" />
         <entry key="CATALAN" value="1" />
       </map>
     </option>
