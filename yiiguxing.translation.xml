@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Access to XMLHttpRequest at 'http://localhost:8282/user/verificationCode?t=1618560680627' from origin 'http://localhost:8080' has been blocked by CORS policy: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'. The credentials mode of requests initiated by the XMLHttpRequest is controlled by the withCredentials attribute." />
       <item value="验证码" />
       <item value="生成验证码" />
       <item value="java.lang.IllegalArgumentException: Result Maps collection does not contain value for cn.dreamplume.entity.User" />
@@ -50,11 +51,10 @@
       <item value="org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [cn.dreamplume.Application]; nested exception is org.springframework.context.annotation.ConflictingBeanDefinitionException: Annotation-specified bean name 'sayOk' for bean class [cn.dreamplume.dao.impl.SayProdOk] conflicts with existing, non-compatible bean definition of same name and class [cn.dreamplume.dao.impl.SayOk] at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:189) ~[spring-context-5.3.5.jar:5.3.5]" />
       <item value="prop" />
       <item value="切换prod环境，建立SayProdOk，加@Profile 6、SayOkCondition，加@ConditionalOnMissingBean" />
-      <item value="*************************** APPLICATION FAILED TO START *************************** Description: Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured. Reason: Failed to determine a suitable driver class Action: Consider the following: If you want an embedded database (H2, HSQL or Derby), please put it on the classpath. If you have database settings to be loaded from a particular profile you may need to activate it (no profiles are currently active)." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="31" />
+        <entry key="CHINESE" value="32" />
         <entry key="ENGLISH" value="32" />
         <entry key="CATALAN" value="1" />
       </map>
