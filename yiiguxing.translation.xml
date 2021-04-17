@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="indices" />
+      <item value="indires" />
       <item value="跳转注册" />
       <item value="提示" />
       <item value="Interpolation inside attributes has been removed. Use v-bind or the colon shorthand instead. For example, instead of &lt;div id=&quot;{{ val }}&quot;&gt;, use &lt;div :id=&quot;val&quot;&gt;." />
@@ -49,12 +51,10 @@
       <item value="乘" />
       <item value="减" />
       <item value="行" />
-      <item value="按钮" />
-      <item value="计算式" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="33" />
+        <entry key="CHINESE" value="34" />
         <entry key="ENGLISH" value="34" />
         <entry key="CATALAN" value="1" />
       </map>
