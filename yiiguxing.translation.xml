@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Wrote to D:\软件安装\Vue\project\stu_sys_vue\package.json:" />
       <item value="Warning: name can no longer contain capital letters " />
       <item value="java.lang.IllegalArgumentException: argument &quot;content&quot; is null" />
       <item value="Access to XMLHttpRequest at 'http://localhost:8282/user/verificationCode?t=1618560680627' from origin 'http://localhost:8080' has been blocked by CORS policy: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'. The credentials mode of requests initiated by the XMLHttpRequest is controlled by the withCredentials attribute." />
@@ -50,12 +51,11 @@
       <item value="计算式子" />
       <item value="显示屏" />
       <item value="计算器" />
-      <item value="org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [cn.dreamplume.Application]; nested exception is org.springframework.context.annotation.ConflictingBeanDefinitionException: Annotation-specified bean name 'sayOk' for bean class [cn.dreamplume.dao.impl.SayProdOk] conflicts with existing, non-compatible bean definition of same name and class [cn.dreamplume.dao.impl.SayOk] at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:189) ~[spring-context-5.3.5.jar:5.3.5]" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="32" />
-        <entry key="ENGLISH" value="32" />
+        <entry key="ENGLISH" value="33" />
         <entry key="CATALAN" value="1" />
       </map>
     </option>
