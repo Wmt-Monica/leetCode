@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Index 3 out of bounds for length 3" />
+      <item value=" root cause" />
       <item value="The error occurred while handling results ### SQL: select            tea_id, tea_name, add_time         from teacher     where tea_id = ? ### Cause: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 3] with root cause" />
       <item value="v撒v发" />
       <item value="自定义" />
@@ -49,8 +51,6 @@
       <item value="计算属性" />
       <item value="字母" />
       <item value="事件修饰符" />
-      <item value="生命周期" />
-      <item value="02_Vue" />
     </histories>
     <option name="languageScores">
       <map>
