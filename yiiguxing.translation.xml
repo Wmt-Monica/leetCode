@@ -1,13 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="java.lang.IllegalArgumentException: Result Maps collection does not contain value for java.lang.String" />
       <item value="There is no getter for property named 'user_state' in 'class cn.dreamplume.entity.User'" />
       <item value="Index 3 out of bounds for length 3" />
       <item value=" root cause" />
       <item value="The error occurred while handling results ### SQL: select            tea_id, tea_name, add_time         from teacher     where tea_id = ? ### Cause: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 3] with root cause" />
       <item value="v撒v发" />
       <item value="自定义" />
-      <item value="java.lang.IllegalArgumentException: Result Maps collection does not contain value for java.lang.String" />
       <item value="creating bean with name 'studentController': Unsatisfied dependency expressed through field 'studentService'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'studentService': Unsatisfied dependency expressed through field 'studentMapper'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'studentMapper' defined in file " />
       <item value="Result Maps collection does not contain value for java.lang.String" />
       <item value="鼠标" />
