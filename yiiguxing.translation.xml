@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="@param queue the name of the queue" />
+      <item value="Declare a queue      * @see com.rabbitmq.client.AMQP.Queue.Declare      * @see com.rabbitmq.client.AMQP.Queue.DeclareOk      * @param queue the name of the queue      * @param durable true if we are declaring a durable queue (the queue will survive a server restart)      * @param exclusive true if we are declaring an exclusive queue (restricted to this connection)      * @param autoDelete true if we are declaring an autodelete queue (server will delete it when no longer in use)      * @param arguments other properties (construction arguments) for the queue      * @return a declaration-confirm method to indicate the queue was successfully declared      * @throws java.io.IOException if an error is encountered" />
+      <item value="Like {@link Channel#queueDeclare(String, boolean, boolean, boolean, java.util.Map)} but sets nowait      * flag to true and returns no result (as there will be no response from the server)." />
+      <item value="/**      * Like {@link Channel#queueDeclare(String, boolean, boolean, boolean, java.util.Map)} but sets nowait      * flag to true and returns no result (as there will be no response from the server).      * @param queue the name of the queue      * @param durable true if we are declaring a durable queue (the queue will survive a server restart)      * @param exclusive true if we are declaring an exclusive queue (restricted to this connection)      * @param autoDelete true if we are declaring an autodelete queue (server will delete it when no longer in use)      * @param arguments other properties (construction arguments) for the queue      * @throws java.io.IOException if an error is encountered" />
       <item value="java.lang.IllegalArgumentException: Result Maps collection does not contain value for java.lang.String" />
       <item value="There is no getter for property named 'user_state' in 'class cn.dreamplume.entity.User'" />
       <item value="Index 3 out of bounds for length 3" />
@@ -47,10 +51,6 @@
       <item value="property" />
       <item value="属性" />
       <item value="组件" />
-      <item value="组件通信" />
-      <item value="组件化" />
-      <item value="计算属性" />
-      <item value="字母" />
     </histories>
     <option name="languageScores">
       <map>
