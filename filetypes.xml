@@ -9,6 +9,8 @@
       <mapping ext="peoperties" type="PLAIN_TEXT" />
       <mapping pattern="jdbc" type="Properties" />
       <mapping pattern="applicationContext" type="XML" />
+      <mapping pattern="applcation" type="spring.binders" />
+      <mapping pattern="application" type="spring.factories" />
     </extensionMap>
   </component>
 </application>
