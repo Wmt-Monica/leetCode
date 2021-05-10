@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="遍历" />
+      <item value="压缩数组" />
       <item value="有效数据个数" />
       <item value="压缩" />
       <item value="参数" />
@@ -49,8 +51,6 @@
       <item value="org.thymeleaf.exceptions.TemplateInputException: Error resolving template [user/login], template might not exist or might not be accessible by any of the configured Template Resolvers" />
       <item value="Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.IllegalStateException: Optional int parameter 'userId' is present but cannot be translated into a null value due to being declared as a primitive type. Consider declaring it as object wrapper for the corresponding primitive type.] with root cause" />
       <item value="[THYMELEAF][http-nio-8282-exec-10] Exception processing template &quot;user/login&quot;: Error resolving template [user/login], template might not exist or might not be accessible by any of the configured Template Resolvers" />
-      <item value="org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'studentController': Unsatisfied dependency expressed through field 'studentService'; nested exception is org.springframework.beans.factory" />
-      <item value="Suppress 'vue/valid-template-root' for current line " />
     </histories>
     <option name="languageScores">
       <map>
