@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="输入" />
+      <item value="队列头" />
+      <item value="判空" />
+      <item value="空" />
+      <item value="队列" />
       <item value="解压" />
       <item value="遍历" />
       <item value="压缩数组" />
@@ -46,11 +51,6 @@
       <item value="Access to XMLHttpRequest at 'http://localhost:8282/user/verificationCode?t=1618560680627' from origin 'http://localhost:8080' has been blocked by CORS policy: The value of the 'Access-Control-Allow-Origin' header in the response must not be the wildcard '*' when the request's credentials mode is 'include'. The credentials mode of requests initiated by the XMLHttpRequest is controlled by the withCredentials attribute." />
       <item value="验证码" />
       <item value="生成验证码" />
-      <item value="java.lang.IllegalArgumentException: Result Maps collection does not contain value for cn.dreamplume.entity.User" />
-      <item value="org.apache.ibatis.binding.BindingException: Invalid bound statement (not found): cn.dreamplume.mapper.UserMapper.findAll" />
-      <item value="[THYMELEAF][http-nio-8282-exec-2] Exception processing template &quot;user/login&quot;: Error resolving template [user/login], template might not exist or might not be accessible by any of the configured Template Resolvers" />
-      <item value="org.thymeleaf.exceptions.TemplateInputException: Error resolving template [user/login], template might not exist or might not be accessible by any of the configured Template Resolvers" />
-      <item value="Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.IllegalStateException: Optional int parameter 'userId' is present but cannot be translated into a null value due to being declared as a primitive type. Consider declaring it as object wrapper for the corresponding primitive type.] with root cause" />
     </histories>
     <option name="languageScores">
       <map>
