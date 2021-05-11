@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="遍历" />
+      <item value="指针" />
       <item value="简单链表" />
       <item value="接口" />
       <item value="实现" />
@@ -13,7 +15,6 @@
       <item value="空" />
       <item value="队列" />
       <item value="解压" />
-      <item value="遍历" />
       <item value="压缩数组" />
       <item value="有效数据个数" />
       <item value="压缩" />
@@ -50,7 +51,6 @@
       <item value="indires" />
       <item value="跳转注册" />
       <item value="提示" />
-      <item value="Interpolation inside attributes has been removed. Use v-bind or the colon shorthand instead. For example, instead of &lt;div id=&quot;{{ val }}&quot;&gt;, use &lt;div :id=&quot;val&quot;&gt;." />
     </histories>
     <option name="languageScores">
       <map>
