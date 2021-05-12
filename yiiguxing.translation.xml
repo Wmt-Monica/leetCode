@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="空了" />
+      <item value="空" />
+      <item value="满" />
+      <item value="栈" />
       <item value="约瑟夫" />
       <item value="环形链表" />
       <item value="反转" />
@@ -21,7 +25,6 @@
       <item value="输入" />
       <item value="队列头" />
       <item value="判空" />
-      <item value="空" />
       <item value="队列" />
       <item value="解压" />
       <item value="压缩数组" />
@@ -48,9 +51,6 @@
       <item value="java.lang.IllegalArgumentException: Result Maps collection does not contain value for java.lang.String" />
       <item value="There is no getter for property named 'user_state' in 'class cn.dreamplume.entity.User'" />
       <item value="Index 3 out of bounds for length 3" />
-      <item value=" root cause" />
-      <item value="The error occurred while handling results ### SQL: select            tea_id, tea_name, add_time         from teacher     where tea_id = ? ### Cause: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 3] with root cause" />
-      <item value="v撒v发" />
     </histories>
     <option name="languageScores">
       <map>
