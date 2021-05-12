@@ -1,12 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="反转" />
       <item value="打印" />
       <item value="有序" />
       <item value="双向链表" />
       <item value="次数" />
       <item value="合并" />
-      <item value="反转" />
       <item value="倒数" />
       <item value="遍历" />
       <item value="指针" />
