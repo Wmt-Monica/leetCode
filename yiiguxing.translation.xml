@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="计算" />
+      <item value="栈顶" />
+      <item value="比较优先级" />
       <item value="数字" />
       <item value="计算式" />
       <item value="式子" />
-      <item value="计算" />
       <item value="运算符" />
       <item value="简单计算机" />
       <item value="空了" />
@@ -49,8 +51,6 @@
       <item value=" true to reject all messages up to and including" />
       <item value="可靠" />
       <item value="Could not autowire. Qualified bean must be of 'Exchange' type. " />
-      <item value="/**  * &lt;p&gt;Interface for application callback objects to receive notifications and messages from  * a queue by subscription.  * Most implementations will subclass {@link DefaultConsumer}.  * &lt;/p&gt;  * &lt;p&gt;  * The methods of this interface are invoked in a dispatch  * thread which is separate from the {@link Connection}'s thread. This  * allows {@link Consumer}s to call {@link Channel} or {@link  * Connection} methods without causing a deadlock.  * &lt;/p&gt;  * The {@link Consumer}s on a particular {@link Channel} are invoked serially on one or more  * dispatch threads. {@link Consumer}s should avoid executing long-running code  * because this will delay dispatch of messages to other {@link Consumer}s on the same  * {@link Channel}.  *  * For a lambda-oriented syntax, use {@link DeliverCallback},  * {@link CancelCallback}, and {@link ConsumerShutdownSignalCallback}.  *  * @see Channel#basicConsume(String, boolean, String, boolean, boolean, java.util.Map, Consumer)  * @see Channel#basicCancel  */" />
-      <item value="@param queue the name of the queue" />
     </histories>
     <option name="languageScores">
       <map>
