@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="多位数" />
       <item value="分解" />
       <item value="费解" />
       <item value="计算" />
@@ -50,7 +51,6 @@
       <item value="to reject all messages up to and including      * the supplied delivery tag" />
       <item value="true to reject all messages up to and including      * the supplied delivery tag; false to reject just the supplied      * delivery tag." />
       <item value="true to acknowledge all messages up to and      * including the supplied delivery tag; false to acknowledge just      * the supplied delivery tag." />
-      <item value=" true to reject all messages up to and including" />
     </histories>
     <option name="languageScores">
       <map>
