@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="转换" />
       <item value="括号" />
       <item value="Empty" />
       <item value="EmptyStackException" />
@@ -50,7 +51,6 @@
       <item value="to acknowledge all messages up to and    including the supplied delivery tag;" />
       <item value="to acknowledge all messages up to and      * including the supplied delivery tag" />
       <item value="to reject just the supplied  delivery tag." />
-      <item value="to reject all messages up to and including  the supplied delivery tag" />
     </histories>
     <option name="languageScores">
       <map>
