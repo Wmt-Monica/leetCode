@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Empty" />
+      <item value="EmptyStackException" />
       <item value="多位数" />
       <item value="分解" />
       <item value="费解" />
@@ -49,12 +51,10 @@
       <item value="to reject just the supplied  delivery tag." />
       <item value="to reject all messages up to and including  the supplied delivery tag" />
       <item value="to reject all messages up to and including      * the supplied delivery tag" />
-      <item value="true to reject all messages up to and including      * the supplied delivery tag; false to reject just the supplied      * delivery tag." />
-      <item value="true to acknowledge all messages up to and      * including the supplied delivery tag; false to acknowledge just      * the supplied delivery tag." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="37" />
+        <entry key="CHINESE" value="38" />
         <entry key="ENGLISH" value="38" />
         <entry key="CATALAN" value="1" />
       </map>
