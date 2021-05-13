@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="走迷宫" />
+      <item value="迷宫" />
+      <item value="递归" />
       <item value="转换" />
       <item value="括号" />
       <item value="Empty" />
@@ -48,9 +51,6 @@
       <item value="参数" />
       <item value="原始" />
       <item value="Failed to load ApplicationContext  &#9;at org.springframework.test.context.cache.DefaultCacheAwareContextLoaderDelegate.loadContext" />
-      <item value="to acknowledge all messages up to and    including the supplied delivery tag;" />
-      <item value="to acknowledge all messages up to and      * including the supplied delivery tag" />
-      <item value="to reject just the supplied  delivery tag." />
     </histories>
     <option name="languageScores">
       <map>
