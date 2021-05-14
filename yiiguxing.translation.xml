@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="基数" />
+      <item value="归并" />
+      <item value="交换" />
+      <item value="选择" />
+      <item value="插入" />
+      <item value="排序" />
       <item value="摆放" />
       <item value="判断" />
       <item value="皇后" />
@@ -45,12 +51,6 @@
       <item value="列" />
       <item value="写入" />
       <item value="输入" />
-      <item value="队列头" />
-      <item value="判空" />
-      <item value="队列" />
-      <item value="解压" />
-      <item value="压缩数组" />
-      <item value="有效数据个数" />
     </histories>
     <option name="languageScores">
       <map>
