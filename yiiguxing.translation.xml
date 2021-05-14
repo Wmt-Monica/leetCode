@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="判断" />
+      <item value="皇后" />
       <item value="位置" />
       <item value="走迷宫" />
       <item value="迷宫" />
@@ -49,8 +51,6 @@
       <item value="压缩数组" />
       <item value="有效数据个数" />
       <item value="压缩" />
-      <item value="参数" />
-      <item value="原始" />
     </histories>
     <option name="languageScores">
       <map>
