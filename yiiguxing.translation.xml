@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="admin" />
       <item value="背景" />
       <item value="这是王梦婷的期末终极作业" />
       <item value="这是王梦婷期末终极作业" />
@@ -50,11 +51,10 @@
       <item value="合并" />
       <item value="倒数" />
       <item value="遍历" />
-      <item value="指针" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="38" />
+        <entry key="CHINESE" value="39" />
         <entry key="ENGLISH" value="39" />
         <entry key="CATALAN" value="1" />
       </map>
