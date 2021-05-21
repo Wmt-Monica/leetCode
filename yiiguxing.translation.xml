@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Loading class `com.mysql.jdbc.Driver'. This is deprecated. The new driver class is `com.mysql.cj.jdbc.Driver'. The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary." />
+      <item value="Table Configuration user matched more than one table (test..user,mysql..user,mysecurity..user)" />
       <item value="本地" />
       <item value="Table Configuration User matched more than one table (test..user,mysql..user,mysecurity..user) Table configuration with catalog null, schema null, and table UserRole did not resolve to any tables" />
       <item value="实体" />
@@ -49,12 +51,10 @@
       <item value="反转" />
       <item value="打印" />
       <item value="有序" />
-      <item value="双向链表" />
-      <item value="次数" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="40" />
+        <entry key="CHINESE" value="41" />
         <entry key="ENGLISH" value="41" />
         <entry key="CATALAN" value="1" />
       </map>
