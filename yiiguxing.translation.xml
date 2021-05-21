@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unsatisfied dependency expressed through field 'userMapper'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException:" />
       <item value="register" />
       <item value="注册" />
       <item value="requires a single-arg method" />
@@ -50,7 +51,6 @@
       <item value="简单计算机" />
       <item value="空了" />
       <item value="空" />
-      <item value="满" />
     </histories>
     <option name="languageScores">
       <map>
