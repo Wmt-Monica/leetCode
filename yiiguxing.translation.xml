@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="判断" />
       <item value="template might not exist or might not be accessible by any of the configured Template Resolvers" />
       <item value="Exception processing template &quot;user/findAll&quot;: Error resolving template [user/findAll], template might not exist or might not be accessible by any of the configured Template Resolvers " />
       <item value="Loading class `com.mysql.jdbc.Driver'. This is deprecated. The new driver class is `com.mysql.cj.jdbc.Driver'. The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary." />
@@ -23,7 +24,6 @@
       <item value="插入" />
       <item value="排序" />
       <item value="摆放" />
-      <item value="判断" />
       <item value="皇后" />
       <item value="位置" />
       <item value="走迷宫" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="41" />
-        <entry key="ENGLISH" value="41" />
+        <entry key="ENGLISH" value="42" />
         <entry key="CATALAN" value="1" />
       </map>
     </option>
