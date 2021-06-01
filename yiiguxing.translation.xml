@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="实体" />
       <item value="自定义对象" />
       <item value="参数" />
       <item value="提交方式" />
@@ -26,7 +27,6 @@
       <item value="Table Configuration user matched more than one table (test..user,mysql..user,mysecurity..user)" />
       <item value="本地" />
       <item value="Table Configuration User matched more than one table (test..user,mysql..user,mysecurity..user) Table configuration with catalog null, schema null, and table UserRole did not resolve to any tables" />
-      <item value="实体" />
       <item value="admin" />
       <item value="背景" />
       <item value="这是王梦婷的期末终极作业" />
