@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Current request is not a multipart request" />
       <item value=" Return the {@link AutoConfigurationEntry} based on the {@link AnnotationMetadata} &#9; * of the importing {@link Configuration @Configuration} class. &#9; * @param annotationMetadata the annotation metadata of the configuration class &#9; * @return the auto-configurations that should be imported &#9; */" />
       <item value="/** &#9; * Return the {@link AutoConfigurationEntry} based on the {@link AnnotationMetadata} &#9; * of the importing {@link Configuration @Configuration} class. &#9; * @param annotationMetadata the annotation metadata of the configuration class &#9; * @return the auto-configurations that should be imported &#9; */" />
       <item value=" * {@link DeferredImportSelector} to handle {@link EnableAutoConfiguration  * auto-configuration}. This class can also be subclassed if a custom variant of  * {@link EnableAutoConfiguration @EnableAutoConfiguration} is needed." />
@@ -50,7 +51,6 @@
       <item value="走迷宫" />
       <item value="迷宫" />
       <item value="递归" />
-      <item value="转换" />
     </histories>
     <option name="languageScores">
       <map>
