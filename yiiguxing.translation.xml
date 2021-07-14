@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="判断奇偶数" />
       <item value="慢" />
       <item value="快" />
       <item value="块" />
@@ -50,7 +51,6 @@
       <item value="期末终极作业" />
       <item value="组" />
       <item value="容器" />
-      <item value="冒泡排序" />
     </histories>
     <option name="languageScores">
       <map>
