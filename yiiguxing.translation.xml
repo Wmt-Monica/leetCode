@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="辅助指针" />
+      <item value="辅助" />
+      <item value="存在" />
+      <item value="缓存" />
+      <item value="Raw use of parameterized class 'Node'" />
       <item value="判断奇偶数" />
       <item value="慢" />
       <item value="快" />
@@ -46,16 +51,11 @@
       <item value="Table Configuration User matched more than one table (test..user,mysql..user,mysecurity..user) Table configuration with catalog null, schema null, and table UserRole did not resolve to any tables" />
       <item value="admin" />
       <item value="背景" />
-      <item value="这是王梦婷的期末终极作业" />
-      <item value="这是王梦婷期末终极作业" />
-      <item value="期末终极作业" />
-      <item value="组" />
-      <item value="容器" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="49" />
-        <entry key="ENGLISH" value="50" />
+        <entry key="CHINESE" value="50" />
+        <entry key="ENGLISH" value="51" />
         <entry key="CATALAN" value="1" />
       </map>
     </option>
