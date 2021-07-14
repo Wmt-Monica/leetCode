@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="回文" />
+      <item value="hu" />
+      <item value="链表" />
+      <item value="Google" />
+      <item value="数据结构与算法之美" />
+      <item value="数据结构预算法之美" />
       <item value="s unrecognized or represents more than one time zone. " />
       <item value="java.sql.SQLException: The server time zone value '�й���׼ʱ��' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support." />
       <item value="Current request is not a multipart request" />
@@ -45,17 +51,11 @@
       <item value="归并" />
       <item value="交换" />
       <item value="选择" />
-      <item value="插入" />
-      <item value="排序" />
-      <item value="摆放" />
-      <item value="皇后" />
-      <item value="位置" />
-      <item value="走迷宫" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="47" />
-        <entry key="ENGLISH" value="47" />
+        <entry key="CHINESE" value="49" />
+        <entry key="ENGLISH" value="50" />
         <entry key="CATALAN" value="1" />
       </map>
     </option>
