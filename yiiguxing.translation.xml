@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="遍历" />
+      <item value="尾插法" />
+      <item value="头插法" />
+      <item value="尾部" />
       <item value="辅助指针" />
       <item value="辅助" />
       <item value="存在" />
@@ -47,10 +51,6 @@
       <item value="Exception processing template &quot;user/findAll&quot;: Error resolving template [user/findAll], template might not exist or might not be accessible by any of the configured Template Resolvers " />
       <item value="Loading class `com.mysql.jdbc.Driver'. This is deprecated. The new driver class is `com.mysql.cj.jdbc.Driver'. The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary." />
       <item value="Table Configuration user matched more than one table (test..user,mysql..user,mysecurity..user)" />
-      <item value="本地" />
-      <item value="Table Configuration User matched more than one table (test..user,mysql..user,mysecurity..user) Table configuration with catalog null, schema null, and table UserRole did not resolve to any tables" />
-      <item value="admin" />
-      <item value="背景" />
     </histories>
     <option name="languageScores">
       <map>
