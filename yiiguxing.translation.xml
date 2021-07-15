@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="寻找中间" />
       <item value="合并有序链表" />
       <item value="有序" />
       <item value="标记" />
@@ -50,7 +51,6 @@
       <item value="/**  * This interface represents the abstract notion of a principal, which  * can be used to represent any entity, such as an individual, a  * corporation, and a login id.  *  * @see java.security.cert.X509Certificate  *  * @author Li Gong  * @since 1.1" />
       <item value="Error resolving template [my/encode/12345], template might not exist or might not be accessible by any of the configured Template Resolvers" />
       <item value="Hex-encoded string must have an even number of characters" />
-      <item value="Unsatisfied dependency expressed through field 'userMapper'; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException:" />
     </histories>
     <option name="languageScores">
       <map>
