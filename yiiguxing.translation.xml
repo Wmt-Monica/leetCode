@@ -1,9 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="判满" />
+      <item value="判空" />
+      <item value="空" />
+      <item value="循环队列" />
+      <item value="队列" />
       <item value="Logging system failed to initialize using configuration from 'null' java.lang.IllegalStateException: Could not initialize Logback logging from classpath:logback-spring.xml" />
       <item value="为空" />
-      <item value="空" />
       <item value="出栈" />
       <item value="he array buffer into which the components of the vector are      * stored. The capacity of the vector is the length of this array buffer,      * and is at least large enough to contain all the vector's elements.      *      * &lt;p&gt;Any array elements following the last element in the Vector are null.      *" />
       <item value="Type parameter 'T' cannot be instantiated directly" />
@@ -47,15 +51,11 @@
       <item value="Current request is not a multipart request" />
       <item value=" Return the {@link AutoConfigurationEntry} based on the {@link AnnotationMetadata} &#9; * of the importing {@link Configuration @Configuration} class. &#9; * @param annotationMetadata the annotation metadata of the configuration class &#9; * @return the auto-configurations that should be imported &#9; */" />
       <item value="/** &#9; * Return the {@link AutoConfigurationEntry} based on the {@link AnnotationMetadata} &#9; * of the importing {@link Configuration @Configuration} class. &#9; * @param annotationMetadata the annotation metadata of the configuration class &#9; * @return the auto-configurations that should be imported &#9; */" />
-      <item value=" * {@link DeferredImportSelector} to handle {@link EnableAutoConfiguration  * auto-configuration}. This class can also be subclassed if a custom variant of  * {@link EnableAutoConfiguration @EnableAutoConfiguration} is needed." />
-      <item value="实体" />
-      <item value="自定义对象" />
-      <item value="参数" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="52" />
-        <entry key="ENGLISH" value="52" />
+        <entry key="ENGLISH" value="53" />
         <entry key="CATALAN" value="1" />
       </map>
     </option>
