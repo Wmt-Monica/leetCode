@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="冒泡" />
+      <item value="无序" />
+      <item value="无序随机数组" />
+      <item value="排序" />
       <item value="进位" />
       <item value="判满" />
       <item value="判空" />
@@ -47,10 +51,6 @@
       <item value="Google" />
       <item value="数据结构与算法之美" />
       <item value="数据结构预算法之美" />
-      <item value="s unrecognized or represents more than one time zone. " />
-      <item value="java.sql.SQLException: The server time zone value '�й���׼ʱ��' is unrecognized or represents more than one time zone. You must configure either the server or JDBC driver (via the serverTimezone configuration property) to use a more specifc time zone value if you want to utilize time zone support." />
-      <item value="Current request is not a multipart request" />
-      <item value=" Return the {@link AutoConfigurationEntry} based on the {@link AnnotationMetadata} &#9; * of the importing {@link Configuration @Configuration} class. &#9; * @param annotationMetadata the annotation metadata of the configuration class &#9; * @return the auto-configurations that should be imported &#9; */" />
     </histories>
     <option name="languageScores">
       <map>
