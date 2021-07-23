@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="右边" />
+      <item value="左边" />
       <item value="快速" />
       <item value="排序组合" />
       <item value="组排序组合" />
@@ -49,8 +51,6 @@
       <item value="辅助" />
       <item value="存在" />
       <item value="缓存" />
-      <item value="Raw use of parameterized class 'Node'" />
-      <item value="判断奇偶数" />
     </histories>
     <option name="languageScores">
       <map>
