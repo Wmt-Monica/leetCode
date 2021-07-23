@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="URI is not registered (Settings | Languages &amp; Frameworks | Schemas and DTDs" />
+      <item value="Plugin 'org.apache.tomcat.maven:tomcat7-maven-plugin:2.2' not found " />
       <item value="invalid" />
       <item value="23-Jul-2021 20:04:18.875 信息 [RMI TCP Connection(3)-127.0.0.1] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from class path resource [dubbo-userservice-provider.xml] 23-Jul-2021 20:04:19.012 严重 [RMI TCP Connection(3)-127.0.0.1] org.springframework.web.context.ContextLoader.initWebApplicationContext Context initialization failed &#9;org.springframework.beans.factory.xml.XmlBeanDefinitionStoreException: Line 23 in XML document from class path resource [dubbo-userservice-provider.xml] is invalid; nested exception is org.xml.sax.SAXParseException; lineNumber: 23; columnNumber: 62; cvc-complex-type.2.4.c: 通配符的匹配很全面, 但无法找到元素 'dubbo:application' 的声明。 &#9;&#9;at org.springframework.beans.factory.xml.XmlBeanDefinitionReader" />
       <item value="Dependency is duplicated in file(s): 001-link-userservice-provider " />
@@ -49,8 +51,6 @@
       <item value="哨兵" />
       <item value="尾插法" />
       <item value="w尾插法" />
-      <item value="头插法反转" />
-      <item value="反转" />
     </histories>
     <option name="languageScores">
       <map>
