@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" @param connectString      *            comma separated host:port pairs, each corresponding to a zk      *            server. e.g. &quot;127.0.0.1:3000,127.0.0.1:3001,127.0.0.1:3002&quot; If      *            the optional chroot suffix is used the example would look      *            like: &quot;127.0.0.1:3000,127.0.0.1:3001,127.0.0.1:3002/app/a&quot;      *            where the client would be rooted at &quot;/app/a&quot; and all paths      *            would be relative to this root - ie getting/setting/etc...      *            &quot;/foo/bar&quot; would result in operations being run on      *            &quot;/app/a/foo/bar&quot; (from the server perspective).      * @param sessionTimeout      *            session timeout in milliseconds      * @param watcher      *            a watcher object which will be notified of state changes, may      *            also be notified for node events      *      * @throws IOException      *             in cases of network failure      * @throws IllegalArgumentException      *             if an invalid chroot path is specified" />
       <item value="URI is not registered (Settings | Languages &amp; Frameworks | Schemas and DTDs" />
       <item value="Plugin 'org.apache.tomcat.maven:tomcat7-maven-plugin:2.2' not found " />
       <item value="invalid" />
@@ -50,7 +51,6 @@
       <item value="检测环" />
       <item value="哨兵" />
       <item value="尾插法" />
-      <item value="w尾插法" />
     </histories>
     <option name="languageScores">
       <map>
