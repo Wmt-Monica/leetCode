@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Loading class `com.mysql.jdbc.Driver'. This is deprecated. The new driver class is `com.mysql.cj.jdbc.Driver'. The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary. " />
+      <item value="---------- [WARNING] The requested profile &quot;dev&quot; could not be activated because it does not exist." />
       <item value="减少" />
       <item value="减少库存" />
       <item value="库存" />
@@ -49,12 +51,10 @@
       <item value="栈" />
       <item value="结果" />
       <item value="寻找中间" />
-      <item value="合并有序链表" />
-      <item value="有序" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="57" />
+        <entry key="CHINESE" value="58" />
         <entry key="ENGLISH" value="58" />
         <entry key="CATALAN" value="1" />
       </map>
