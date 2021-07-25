@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SyncConnected" />
+      <item value="connectedSignal" />
+      <item value="countDown" />
+      <item value="KeeperState" />
+      <item value="KeeperState.SyncConnected" />
       <item value="Failed to read artifact descriptor for org.apache.zookeeper:zookeeperjar:3.4.13 " />
       <item value="auth" />
       <item value="Exception in thread &quot;线程一&quot; Exception in thread &quot;线程二&quot; java.lang.NullPointerException &#9;at cn.dreamplume.service.StockReduce.run(StockReduce.java:35) &#9;at java.lang.Thread.run(Thread.java:745) java.lang.NullPointerException &#9;at cn.dreamplume.service.StockReduce.run(StockReduce.java:35) &#9;at java.lang.Thread.run(Thread.java:745) " />
@@ -46,11 +51,6 @@
       <item value="队列" />
       <item value="Logging system failed to initialize using configuration from 'null' java.lang.IllegalStateException: Could not initialize Logback logging from classpath:logback-spring.xml" />
       <item value="为空" />
-      <item value="出栈" />
-      <item value="he array buffer into which the components of the vector are      * stored. The capacity of the vector is the length of this array buffer,      * and is at least large enough to contain all the vector's elements.      *      * &lt;p&gt;Any array elements following the last element in the Vector are null.      *" />
-      <item value="Type parameter 'T' cannot be instantiated directly" />
-      <item value="Array initializer expected" />
-      <item value="判断括号" />
     </histories>
     <option name="languageScores">
       <map>
