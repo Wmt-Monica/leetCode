@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Hahn" />
       <item value="说明" />
       <item value="步骤" />
       <item value="service  server" />
@@ -50,11 +51,10 @@
       <item value="快速" />
       <item value="排序组合" />
       <item value="组排序组合" />
-      <item value="组合" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="60" />
+        <entry key="CHINESE" value="61" />
         <entry key="ENGLISH" value="61" />
         <entry key="CATALAN" value="1" />
       </map>
