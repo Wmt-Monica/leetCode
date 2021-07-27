@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Failed to execute goal org.apache.maven.plugins:maven-war-plugin:2.2:war (default-war) on project interface-dubbo: Error assembling WAR: webxml attribute is required (or pre-existing WEB-INF/web.xml if executing in update mode)" />
       <item value="'org.springframework.web.servlet.DispatcherServlet' is not assignable to 'javax.servlet.Servlet " />
       <item value="消费" />
       <item value="提供发" />
@@ -50,7 +51,6 @@
       <item value="介绍" />
       <item value="No archetype found in remote catalog. Defaulting to internal catalog" />
       <item value="右边" />
-      <item value="左边" />
     </histories>
     <option name="languageScores">
       <map>
