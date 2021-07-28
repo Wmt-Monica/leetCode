@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="1:29:09,899 DEBUG ExceptionHandlerExceptionResolver:137 - Resolving exception from handler [public java.lang.String cn.dreamplume.controller.UserServiceController.sayHello()]: com.alibaba.dubbo.rpc.RpcException: No provider available from registry 192.168.94.129:2181 for service cn.dreamplume.service.UserService on consumer 192.168.94.1 use dubbo version 2.6.0, may be providers disabled or not registered ?" />
       <item value="No provider available from registry 192.168.94.129:2181 for service cn.dreamplume.service.UserService on consumer 192.168.94.1 use dubbo version 2.6.0, may be providers disabled or not registered ? &#9;at com.alibaba.dubbo.registry.integration" />
       <item value="HTTP Status 500 - Request processing failed; nested exception is com.alibaba.dubbo.rpc.RpcException: No provider available from registry 192.168.94.129:2181 for service cn.dreamplume.service.UserService on consumer 192.168.94.1 use dubbo version 2.6.0, may be providers disabled or not registered ?" />
       <item value="org.springframework.web.util.NestedServletException: Request processing failed; nested exception is com.alibaba.dubbo.rpc.RpcException: No provider available from registry 192.168.94.129:2181 for service cn.dreamplume.service.UserService on consumer 192.168.94.1 use dubbo version 2.6.0, may be providers disabled or not registered ? &#9;org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:982) &#9;org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:866) &#9;javax.servlet.http.HttpServlet.service(HttpServlet.java:621) &#9;org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:851) &#9;javax.servlet.http.HttpServlet.service(HttpServlet.java:728) &#9;org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)" />
@@ -50,7 +51,6 @@
       <item value="Plugin 'org.apache.tomcat.maven:tomcat7-maven-plugin:2.2' not found " />
       <item value="invalid" />
       <item value="23-Jul-2021 20:04:18.875 信息 [RMI TCP Connection(3)-127.0.0.1] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from class path resource [dubbo-userservice-provider.xml] 23-Jul-2021 20:04:19.012 严重 [RMI TCP Connection(3)-127.0.0.1] org.springframework.web.context.ContextLoader.initWebApplicationContext Context initialization failed &#9;org.springframework.beans.factory.xml.XmlBeanDefinitionStoreException: Line 23 in XML document from class path resource [dubbo-userservice-provider.xml] is invalid; nested exception is org.xml.sax.SAXParseException; lineNumber: 23; columnNumber: 62; cvc-complex-type.2.4.c: 通配符的匹配很全面, 但无法找到元素 'dubbo:application' 的声明。 &#9;&#9;at org.springframework.beans.factory.xml.XmlBeanDefinitionReader" />
-      <item value="Dependency is duplicated in file(s): 001-link-userservice-provider " />
     </histories>
     <option name="languageScores">
       <map>
