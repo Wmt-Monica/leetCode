@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="失败" />
       <item value="消费者" />
       <item value="提供者" />
       <item value="log4j:WARN No appenders could be found for logger (org.springframework.core.env.StandardEnvironment). log4j:WARN Please initialize the log4j system properly." />
@@ -50,7 +51,6 @@
       <item value="减少库存" />
       <item value="库存" />
       <item value=" * @param path      *                the path for the node      * @param data      *                the initial data for the node      * @param acl      *                the acl for the node      * @param createMode      *                specifying whether the node to be created is ephemeral      *                and/or sequential" />
-      <item value="域名" />
     </histories>
     <option name="languageScores">
       <map>
