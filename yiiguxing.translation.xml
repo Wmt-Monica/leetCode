@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="log4j:WARN No appenders could be found for logger (org.springframework.core.env.StandardEnvironment). log4j:WARN Please initialize the log4j system properly." />
       <item value="说明" />
       <item value="步骤" />
       <item value="地址" />
@@ -50,11 +51,10 @@
       <item value="库存" />
       <item value=" * @param path      *                the path for the node      * @param data      *                the initial data for the node      * @param acl      *                the acl for the node      * @param createMode      *                specifying whether the node to be created is ephemeral      *                and/or sequential" />
       <item value="域名" />
-      <item value=" @param connectString      *            comma separated host:port pairs, each corresponding to a zk      *            server. e.g. &quot;127.0.0.1:3000,127.0.0.1:3001,127.0.0.1:3002&quot; If      *            the optional chroot suffix is used the example would look      *            like: &quot;127.0.0.1:3000,127.0.0.1:3001,127.0.0.1:3002/app/a&quot;      *            where the client would be rooted at &quot;/app/a&quot; and all paths      *            would be relative to this root - ie getting/setting/etc...      *            &quot;/foo/bar&quot; would result in operations being run on      *            &quot;/app/a/foo/bar&quot; (from the server perspective).      * @param sessionTimeout      *            session timeout in milliseconds      * @param watcher      *            a watcher object which will be notified of state changes, may      *            also be notified for node events      *      * @throws IOException      *             in cases of network failure      * @throws IllegalArgumentException      *             if an invalid chroot path is specified" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="62" />
+        <entry key="CHINESE" value="63" />
         <entry key="ENGLISH" value="63" />
         <entry key="CATALAN" value="1" />
       </map>
