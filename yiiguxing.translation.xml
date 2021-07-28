@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="地址" />
+      <item value="实体" />
+      <item value="消费者" />
+      <item value="提供者" />
       <item value="1:29:09,899 DEBUG ExceptionHandlerExceptionResolver:137 - Resolving exception from handler [public java.lang.String cn.dreamplume.controller.UserServiceController.sayHello()]: com.alibaba.dubbo.rpc.RpcException: No provider available from registry 192.168.94.129:2181 for service cn.dreamplume.service.UserService on consumer 192.168.94.1 use dubbo version 2.6.0, may be providers disabled or not registered ?" />
       <item value="No provider available from registry 192.168.94.129:2181 for service cn.dreamplume.service.UserService on consumer 192.168.94.1 use dubbo version 2.6.0, may be providers disabled or not registered ? &#9;at com.alibaba.dubbo.registry.integration" />
       <item value="HTTP Status 500 - Request processing failed; nested exception is com.alibaba.dubbo.rpc.RpcException: No provider available from registry 192.168.94.129:2181 for service cn.dreamplume.service.UserService on consumer 192.168.94.1 use dubbo version 2.6.0, may be providers disabled or not registered ?" />
@@ -47,15 +51,11 @@
       <item value=" * @param path      *                the path for the node      * @param data      *                the initial data for the node      * @param acl      *                the acl for the node      * @param createMode      *                specifying whether the node to be created is ephemeral      *                and/or sequential" />
       <item value="域名" />
       <item value=" @param connectString      *            comma separated host:port pairs, each corresponding to a zk      *            server. e.g. &quot;127.0.0.1:3000,127.0.0.1:3001,127.0.0.1:3002&quot; If      *            the optional chroot suffix is used the example would look      *            like: &quot;127.0.0.1:3000,127.0.0.1:3001,127.0.0.1:3002/app/a&quot;      *            where the client would be rooted at &quot;/app/a&quot; and all paths      *            would be relative to this root - ie getting/setting/etc...      *            &quot;/foo/bar&quot; would result in operations being run on      *            &quot;/app/a/foo/bar&quot; (from the server perspective).      * @param sessionTimeout      *            session timeout in milliseconds      * @param watcher      *            a watcher object which will be notified of state changes, may      *            also be notified for node events      *      * @throws IOException      *             in cases of network failure      * @throws IllegalArgumentException      *             if an invalid chroot path is specified" />
-      <item value="URI is not registered (Settings | Languages &amp; Frameworks | Schemas and DTDs" />
-      <item value="Plugin 'org.apache.tomcat.maven:tomcat7-maven-plugin:2.2' not found " />
-      <item value="invalid" />
-      <item value="23-Jul-2021 20:04:18.875 信息 [RMI TCP Connection(3)-127.0.0.1] org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions Loading XML bean definitions from class path resource [dubbo-userservice-provider.xml] 23-Jul-2021 20:04:19.012 严重 [RMI TCP Connection(3)-127.0.0.1] org.springframework.web.context.ContextLoader.initWebApplicationContext Context initialization failed &#9;org.springframework.beans.factory.xml.XmlBeanDefinitionStoreException: Line 23 in XML document from class path resource [dubbo-userservice-provider.xml] is invalid; nested exception is org.xml.sax.SAXParseException; lineNumber: 23; columnNumber: 62; cvc-complex-type.2.4.c: 通配符的匹配很全面, 但无法找到元素 'dubbo:application' 的声明。 &#9;&#9;at org.springframework.beans.factory.xml.XmlBeanDefinitionReader" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="62" />
-        <entry key="ENGLISH" value="62" />
+        <entry key="ENGLISH" value="63" />
         <entry key="CATALAN" value="1" />
       </map>
     </option>
