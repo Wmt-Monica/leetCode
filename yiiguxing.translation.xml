@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="说明" />
+      <item value="步骤" />
       <item value="地址" />
       <item value="实体" />
       <item value="消费者" />
@@ -16,8 +18,6 @@
       <item value="消费" />
       <item value="提供发" />
       <item value="Hahn" />
-      <item value="说明" />
-      <item value="步骤" />
       <item value="service  server" />
       <item value="service" />
       <item value="server" />
