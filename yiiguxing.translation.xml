@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Correct the classpath of your application so that it contains a single, compatible version of org.springframework.boot.builder.SpringApplicationBuilder " />
+      <item value="org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter - Application failed to start due to an exception java.lang.NoSuchMethodError: org.springframework.boot.builder.SpringApplicationBuilder.&lt;init&gt;([Ljava/lang/Object;)V" />
       <item value="失败" />
       <item value="消费者" />
       <item value="提供者" />
@@ -49,12 +51,10 @@
       <item value="---------- [WARNING] The requested profile &quot;dev&quot; could not be activated because it does not exist." />
       <item value="减少" />
       <item value="减少库存" />
-      <item value="库存" />
-      <item value=" * @param path      *                the path for the node      * @param data      *                the initial data for the node      * @param acl      *                the acl for the node      * @param createMode      *                specifying whether the node to be created is ephemeral      *                and/or sequential" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="63" />
+        <entry key="CHINESE" value="64" />
         <entry key="ENGLISH" value="64" />
         <entry key="CATALAN" value="1" />
       </map>
