@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Fetching config from server at: http://localhost:8888" />
+      <item value="Could not locate PropertySource: I/O error on GET request for &quot;http://localhost:8888/springcloud_provider_dept_8001/default&quot;: Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect" />
       <item value="dept" />
       <item value="部门" />
       <item value="实体  " />
@@ -49,8 +51,6 @@
       <item value="SyncConnected" />
       <item value="connectedSignal" />
       <item value="KeeperState" />
-      <item value="KeeperState.SyncConnected" />
-      <item value="Failed to read artifact descriptor for org.apache.zookeeper:zookeeperjar:3.4.13 " />
     </histories>
     <option name="languageScores">
       <map>
