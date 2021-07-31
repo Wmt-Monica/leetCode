@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="消费者" />
       <item value="2021-07-30 23:42:47.466  WARN 21216 --- [2)-192.168.94.1] c.c.c.ConfigServicePropertySourceLocator : Could not locate PropertySource: I/O error on GET request for &quot;http://localhost:8888/springcloud_provider_dept_8001/default&quot;: Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect " />
       <item value="Fetching config from server at: http://localhost:8888" />
       <item value="Could not locate PropertySource: I/O error on GET request for &quot;http://localhost:8888/springcloud_provider_dept_8001/default&quot;: Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect" />
@@ -16,7 +17,6 @@
       <item value="Correct the classpath of your application so that it contains a single, compatible version of org.springframework.boot.builder.SpringApplicationBuilder " />
       <item value="org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter - Application failed to start due to an exception java.lang.NoSuchMethodError: org.springframework.boot.builder.SpringApplicationBuilder.&lt;init&gt;([Ljava/lang/Object;)V" />
       <item value="失败" />
-      <item value="消费者" />
       <item value="提供者" />
       <item value="log4j:WARN No appenders could be found for logger (org.springframework.core.env.StandardEnvironment). log4j:WARN Please initialize the log4j system properly." />
       <item value="步骤" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="66" />
-        <entry key="ENGLISH" value="66" />
+        <entry key="ENGLISH" value="67" />
         <entry key="CATALAN" value="1" />
       </map>
     </option>
