@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Highly Available" />
       <item value="知识" />
       <item value=": Unregistering JMX-exposed beans on shutdown 2021-07-31 10:49:14.216  INFO 11936 --- [  restartedMain] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans " />
       <item value="消费者" />
@@ -50,11 +51,10 @@
       <item value="countDown" />
       <item value="NodeDeleted" />
       <item value="await" />
-      <item value="WatchedEvent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="67" />
+        <entry key="CHINESE" value="68" />
         <entry key="ENGLISH" value="68" />
         <entry key="CATALAN" value="1" />
       </map>
