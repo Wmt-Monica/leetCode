@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="AvailabilityFilteringRule" />
       <item value="Redundant declaration: @SpringBootApplication already applies given @ComponentScan" />
       <item value="org.springframework.web.util.NestedServletException: Request processing failed; nested exception is org.springframework.dao.DataAccessResourceFailureException:  ### Error querying database.  Cause: com.mysql.jdbc.CommunicationsException: Communications link failure due to underlying exception:   ** BEGIN NESTED EXCEPTION **   java.net.SocketException MESSAGE: Software caused connection abort: socket write error" />
       <item value="Flipping property: springcloud-provider-dept-8001.ribbon.ActiveConnectionsLimit to use NEXT property: niws.loadbalancer.availabilityFilteringRule.activeConnectionsLimit = 2147483647" />
@@ -50,7 +51,6 @@
       <item value="sequentikl" />
       <item value="ephemenral" />
       <item value="sphemeral" />
-      <item value="EPHEMERAL_SEQUENTIAL" />
     </histories>
     <option name="languageScores">
       <map>
