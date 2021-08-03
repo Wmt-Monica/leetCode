@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="org.springframework.web.util.NestedServletException: Request processing failed; nested exception is org.springframework.dao.DataAccessResourceFailureException:  ### Error querying database.  Cause: com.mysql.jdbc.CommunicationsException: Communications link failure due to underlying exception:   ** BEGIN NESTED EXCEPTION **   java.net.SocketException MESSAGE: Software caused connection abort: socket write error" />
       <item value="Flipping property: springcloud-provider-dept-8001.ribbon.ActiveConnectionsLimit to use NEXT property: niws.loadbalancer.availabilityFilteringRule.activeConnectionsLimit = 2147483647" />
       <item value="Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.IllegalStateException: Request URI does not contain a valid hostname: http://SPRINGCLOUD_DEPT_8001/list] with root cause  java.lang.IllegalStateException: Request URI does not contain a valid hostname: http://SPRINGCLOUD_DEPT_8001/list" />
       <item value="Highly Available" />
@@ -50,7 +51,6 @@
       <item value="sphemeral" />
       <item value="EPHEMERAL_SEQUENTIAL" />
       <item value="lock" />
-      <item value="countDown" />
     </histories>
     <option name="languageScores">
       <map>
