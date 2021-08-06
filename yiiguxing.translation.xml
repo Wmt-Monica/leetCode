@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="不存在该数据库" />
       <item value="下标" />
       <item value="次数" />
       <item value="ZoneAvoidanceRule" />
@@ -50,12 +51,11 @@
       <item value="父母" />
       <item value="父亲" />
       <item value="付清" />
-      <item value="APPLICATION FAILED TO START ***************************  Description:  Parameter 0 of constructor in cn.dreamplume.entity.ZkLock required a bean of type 'java.lang.String' that could not be found.  The injection point has the following annotations: &#9;- @org.springframework.beans.factory.annotation.Autowired(required=true)   Action:  Consider defining a bean of type 'java.lang.String' in your configuration. " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="68" />
-        <entry key="ENGLISH" value="69" />
+        <entry key="CHINESE" value="69" />
+        <entry key="ENGLISH" value="70" />
         <entry key="CATALAN" value="1" />
       </map>
     </option>
