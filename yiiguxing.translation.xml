@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'ribbonLoadBalancingHttpClient' defined in org.springframework.cloud.netflix.ribbon.RibbonClientConfiguration$HttpClientRibbonConfiguration: Unsatisfied dependency expressed through method 'ribbonLoadBalancingHttpClient' parameter 2; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'ribbonLoadBalancer' defined in org.springframework.cloud.netflix.ribbon.RibbonClientConfiguration: Unsatisfied dependency expressed through method 'ribbonLoadBalancer' parameter 3; nested exception is org.springframework.beans.factory.NoUniqueBeanDefinitionException: No qualifying bean of type 'com.netflix.loadbalancer.IRule' available: expected single matching bean but found 2: myRule,chooseRule] with root cause  org.springframework.beans.factory.NoUniqueBeanDefinitionException: No qualifying bean of type 'com.netflix.loadbalancer.IRule' available: expected single matching bean but found 2: myRule,chooseRule" />
       <item value="不存在该数据库" />
       <item value="下标" />
       <item value="次数" />
@@ -50,11 +51,10 @@
       <item value="server" />
       <item value="父母" />
       <item value="父亲" />
-      <item value="付清" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="69" />
+        <entry key="CHINESE" value="70" />
         <entry key="ENGLISH" value="70" />
         <entry key="CATALAN" value="1" />
       </map>
