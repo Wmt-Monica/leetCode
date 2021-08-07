@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Load balancer does not have available server for client: SPRINGCLOUD-PROVIDER-DEPT" />
       <item value="Description:  Field restTemplate in cn.dreamplume.controller.DeptController_Consumer required a bean of type 'org.springframework.web.client.RestTemplate' that could not be found." />
       <item value="This application has no explicit mapping for /error, so you are seeing this as a fallback." />
       <item value="through method 'ribbonLoadBalancer' parameter 3; " />
@@ -50,7 +51,6 @@
       <item value="提供发" />
       <item value="Hahn" />
       <item value="service  server" />
-      <item value="service" />
     </histories>
     <option name="languageScores">
       <map>
