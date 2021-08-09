@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="org.springframework.web.util.NestedServletException: Request processing failed; nested exception is java.lang.IllegalStateException: Cannot clone or checkout repository &#9;at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:982) ~[spring-webmvc-4.3.13.RELEASE.jar:4.3.13.RELEASE] &#9;at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:861) ~[spring-webmvc-4.3.13.RELEASE.jar:4.3.13.RELEASE]" />
       <item value="repository" />
       <item value="库" />
       <item value="仓库" />
@@ -50,7 +51,6 @@
       <item value="1:29:09,899 DEBUG ExceptionHandlerExceptionResolver:137 - Resolving exception from handler [public java.lang.String cn.dreamplume.controller.UserServiceController.sayHello()]: com.alibaba.dubbo.rpc.RpcException: No provider available from registry 192.168.94.129:2181 for service cn.dreamplume.service.UserService on consumer 192.168.94.1 use dubbo version 2.6.0, may be providers disabled or not registered ?" />
       <item value="No provider available from registry 192.168.94.129:2181 for service cn.dreamplume.service.UserService on consumer 192.168.94.1 use dubbo version 2.6.0, may be providers disabled or not registered ? &#9;at com.alibaba.dubbo.registry.integration" />
       <item value="HTTP Status 500 - Request processing failed; nested exception is com.alibaba.dubbo.rpc.RpcException: No provider available from registry 192.168.94.129:2181 for service cn.dreamplume.service.UserService on consumer 192.168.94.1 use dubbo version 2.6.0, may be providers disabled or not registered ?" />
-      <item value="org.springframework.web.util.NestedServletException: Request processing failed; nested exception is com.alibaba.dubbo.rpc.RpcException: No provider available from registry 192.168.94.129:2181 for service cn.dreamplume.service.UserService on consumer 192.168.94.1 use dubbo version 2.6.0, may be providers disabled or not registered ? &#9;org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:982) &#9;org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:866) &#9;javax.servlet.http.HttpServlet.service(HttpServlet.java:621) &#9;org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:851) &#9;javax.servlet.http.HttpServlet.service(HttpServlet.java:728) &#9;org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)" />
     </histories>
     <option name="languageScores">
       <map>
