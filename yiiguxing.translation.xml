@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="说明" />
+      <item value="步骤" />
       <item value="Resolved exception caused by Handler execution: org.springframework.cloud.config.server.environment.NoSuchLabelException: No such label: master" />
       <item value="org.springframework.web.util.NestedServletException: Request processing failed; nested exception is java.lang.IllegalStateException: Cannot clone or checkout repository" />
       <item value="org.springframework.web.util.NestedServletException: Request processing failed; nested exception is java.lang.IllegalStateException: Cannot clone or checkout repository &#9;at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:982) ~[spring-webmvc-4.3.13.RELEASE.jar:4.3.13.RELEASE] &#9;at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:861) ~[spring-webmvc-4.3.13.RELEASE.jar:4.3.13.RELEASE]" />
@@ -44,18 +46,16 @@
       <item value="实体  部分" />
       <item value="实体" />
       <item value="Dept" />
-      <item value="说明" />
       <item value="Element 'properties' cannot have character [children], because the type's content type is element-only." />
       <item value="Correct the classpath of your application so that it contains a single, compatible version of org.springframework.boot.builder.SpringApplicationBuilder " />
       <item value="org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter - Application failed to start due to an exception java.lang.NoSuchMethodError: org.springframework.boot.builder.SpringApplicationBuilder.&lt;init&gt;([Ljava/lang/Object;)V" />
       <item value="失败" />
       <item value="提供者" />
-      <item value="log4j:WARN No appenders could be found for logger (org.springframework.core.env.StandardEnvironment). log4j:WARN Please initialize the log4j system properly." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="71" />
-        <entry key="ENGLISH" value="71" />
+        <entry key="ENGLISH" value="72" />
         <entry key="CATALAN" value="1" />
       </map>
     </option>
