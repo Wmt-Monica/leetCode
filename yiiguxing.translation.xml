@@ -1,8 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value=" No such label: master" />
+      <item value="Resolved exception caused by Handler execution: org.springframework.cloud.config.server.environment.NoSuchLabelException: No such label: master" />
+      <item value="org.springframework.web.util.NestedServletException: Request processing failed; nested exception is java.lang.IllegalStateException: Cannot clone or checkout repository" />
       <item value="org.springframework.web.util.NestedServletException: Request processing failed; nested exception is java.lang.IllegalStateException: Cannot clone or checkout repository &#9;at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:982) ~[spring-webmvc-4.3.13.RELEASE.jar:4.3.13.RELEASE] &#9;at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:861) ~[spring-webmvc-4.3.13.RELEASE.jar:4.3.13.RELEASE]" />
+      <item value="Request processing failed; nested exception is java.lang.IllegalStateException: Cannot clone or checkout repository &#9;at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:982) ~[spring-webmvc-4.3.13.RELEASE.jar:4.3.13.RELEASE] &#9;at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:861) ~[spring-webmvc-4.3.13.RELEASE.jar:4.3.13.RELEASE]" />
+      <item value=" Could not fetch remote for master remote: https://github.com/Wmt-Monica/springcloud-config 2021-08-09 12:08:37.820  WARN 23020 --- [tp1461738373-35] .c.s.e.MultipleJGitEnvironmentRepository : Could not fetch remote for master remote: https://github.com/Wmt-Monica/springcloud-config 2021-08-09 12:08:37.876  WARN 23020 --- [tp1461738373-35] .m.m.a.ExceptionHandlerExceptionResolver : Resolved exception caused by Handler execution: org.springframework.cloud.config.server.environment.NoSuchLabelException: No such label: master" />
+      <item value=" No such label: master" />
       <item value="repository" />
       <item value="库" />
       <item value="仓库" />
@@ -47,10 +51,6 @@
       <item value="失败" />
       <item value="提供者" />
       <item value="log4j:WARN No appenders could be found for logger (org.springframework.core.env.StandardEnvironment). log4j:WARN Please initialize the log4j system properly." />
-      <item value="步骤" />
-      <item value="地址" />
-      <item value="1:29:09,899 DEBUG ExceptionHandlerExceptionResolver:137 - Resolving exception from handler [public java.lang.String cn.dreamplume.controller.UserServiceController.sayHello()]: com.alibaba.dubbo.rpc.RpcException: No provider available from registry 192.168.94.129:2181 for service cn.dreamplume.service.UserService on consumer 192.168.94.1 use dubbo version 2.6.0, may be providers disabled or not registered ?" />
-      <item value="No provider available from registry 192.168.94.129:2181 for service cn.dreamplume.service.UserService on consumer 192.168.94.1 use dubbo version 2.6.0, may be providers disabled or not registered ? &#9;at com.alibaba.dubbo.registry.integration" />
     </histories>
     <option name="languageScores">
       <map>
