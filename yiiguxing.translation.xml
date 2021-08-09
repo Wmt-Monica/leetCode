@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="serial" />
       <item value="You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`id` bigint(20) NOT NULL AUTO_INCREMENT COMMENT 'ID',   `serial` varchar(200) ' at line 2" />
       <item value="最后" />
       <item value="知识" />
@@ -50,7 +51,6 @@
       <item value="Dept" />
       <item value="Element 'properties' cannot have character [children], because the type's content type is element-only." />
       <item value="Correct the classpath of your application so that it contains a single, compatible version of org.springframework.boot.builder.SpringApplicationBuilder " />
-      <item value="org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter - Application failed to start due to an exception java.lang.NoSuchMethodError: org.springframework.boot.builder.SpringApplicationBuilder.&lt;init&gt;([Ljava/lang/Object;)V" />
     </histories>
     <option name="languageScores">
       <map>
