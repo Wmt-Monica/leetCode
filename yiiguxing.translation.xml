@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="知识" />
       <item value="说明" />
       <item value="步骤" />
       <item value="Resolved exception caused by Handler execution: org.springframework.cloud.config.server.environment.NoSuchLabelException: No such label: master" />
@@ -33,7 +34,6 @@
       <item value="Flipping property: springcloud-provider-dept-8001.ribbon.ActiveConnectionsLimit to use NEXT property: niws.loadbalancer.availabilityFilteringRule.activeConnectionsLimit = 2147483647" />
       <item value="Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.IllegalStateException: Request URI does not contain a valid hostname: http://SPRINGCLOUD_DEPT_8001/list] with root cause  java.lang.IllegalStateException: Request URI does not contain a valid hostname: http://SPRINGCLOUD_DEPT_8001/list" />
       <item value="Highly Available" />
-      <item value="知识" />
       <item value=": Unregistering JMX-exposed beans on shutdown 2021-07-31 10:49:14.216  INFO 11936 --- [  restartedMain] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans " />
       <item value="消费者" />
       <item value="2021-07-30 23:42:47.466  WARN 21216 --- [2)-192.168.94.1] c.c.c.ConfigServicePropertySourceLocator : Could not locate PropertySource: I/O error on GET request for &quot;http://localhost:8888/springcloud_provider_dept_8001/default&quot;: Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect " />
