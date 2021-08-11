@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" No instances available for cloud-provider-payment" />
       <item value="java.sql.SQLException: Could not retrieve transaction read-only status from server" />
       <item value="serial" />
       <item value="You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`id` bigint(20) NOT NULL AUTO_INCREMENT COMMENT 'ID',   `serial` varchar(200) ' at line 2" />
@@ -50,7 +51,6 @@
       <item value="实体  部分" />
       <item value="实体" />
       <item value="Dept" />
-      <item value="Element 'properties' cannot have character [children], because the type's content type is element-only." />
     </histories>
     <option name="languageScores">
       <map>
