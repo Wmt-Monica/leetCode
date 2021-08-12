@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="下标" />
       <item value="This application has no explicit mapping for /error, so you are seeing this as a fallback.  Thu Aug 12 11:44:29 CST 2021 There was an unexpected error (type=Internal Server Error, status=500). I/O error on GET request for &quot;http://CLOUD-PAYMENT-SERVICE/payment/get/port&quot;: CLOUD-PAYMENT-SERVICE; nested exception is java.net.UnknownHostException: CLOUD-PAYMENT-SERVICE org.springframework.web.client.ResourceAccessException: I/O error on GET request for &quot;http://CLOUD-PAYMENT-SERVICE/payment/get/port&quot;: CLOUD-PAYMENT-SERVICE; nested exception is java.net.UnknownHostException: CLOUD-PAYMENT-SERVICE" />
       <item value="自定义" />
       <item value="com.fasterxml.jackson.databind.exc.MismatchedInputException: Cannot construct instance of `cn.dreamplume.springcloud.entities.CommonResult` (although at least one Creator exists): no int/Int-argument constructor/factory method to deserialize from Number value (8001)  at [Source: (PushbackInputStream); line: 1, column: 1]" />
@@ -32,7 +33,6 @@
       <item value="through method 'ribbonLoadBalancer' parameter 3; " />
       <item value="Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'ribbonLoadBalancingHttpClient' defined in org.springframework.cloud.netflix.ribbon.RibbonClientConfiguration$HttpClientRibbonConfiguration: Unsatisfied dependency expressed through method 'ribbonLoadBalancingHttpClient' parameter 2; nested exception is org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'ribbonLoadBalancer' defined in org.springframework.cloud.netflix.ribbon.RibbonClientConfiguration: Unsatisfied dependency expressed through method 'ribbonLoadBalancer' parameter 3; nested exception is org.springframework.beans.factory.NoUniqueBeanDefinitionException: No qualifying bean of type 'com.netflix.loadbalancer.IRule' available: expected single matching bean but found 2: myRule,chooseRule] with root cause  org.springframework.beans.factory.NoUniqueBeanDefinitionException: No qualifying bean of type 'com.netflix.loadbalancer.IRule' available: expected single matching bean but found 2: myRule,chooseRule" />
       <item value="不存在该数据库" />
-      <item value="下标" />
       <item value="次数" />
       <item value="ZoneAvoidanceRule" />
       <item value="WeightedResponseTimeRule" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="73" />
-        <entry key="ENGLISH" value="73" />
+        <entry key="ENGLISH" value="74" />
         <entry key="CATALAN" value="1" />
       </map>
     </option>
