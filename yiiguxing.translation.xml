@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This application has no explicit mapping for /error, so you are seeing this as a fallback.  Thu Aug 12 11:44:29 CST 2021 There was an unexpected error (type=Internal Server Error, status=500). I/O error on GET request for &quot;http://CLOUD-PAYMENT-SERVICE/payment/get/port&quot;: CLOUD-PAYMENT-SERVICE; nested exception is java.net.UnknownHostException: CLOUD-PAYMENT-SERVICE org.springframework.web.client.ResourceAccessException: I/O error on GET request for &quot;http://CLOUD-PAYMENT-SERVICE/payment/get/port&quot;: CLOUD-PAYMENT-SERVICE; nested exception is java.net.UnknownHostException: CLOUD-PAYMENT-SERVICE" />
       <item value="自定义" />
       <item value="com.fasterxml.jackson.databind.exc.MismatchedInputException: Cannot construct instance of `cn.dreamplume.springcloud.entities.CommonResult` (although at least one Creator exists): no int/Int-argument constructor/factory method to deserialize from Number value (8001)  at [Source: (PushbackInputStream); line: 1, column: 1]" />
       <item value=" No instances available for cloud-provider-payment" />
@@ -50,11 +51,10 @@
       <item value="部门" />
       <item value="实体  " />
       <item value="实体  部门" />
-      <item value="实体  部分" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="72" />
+        <entry key="CHINESE" value="73" />
         <entry key="ENGLISH" value="73" />
         <entry key="CATALAN" value="1" />
       </map>
